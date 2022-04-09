@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Kolmilki
+- 👀 I’m interested in AI study
+- 🌱 I’m currently learning C++, Python, MathLab
